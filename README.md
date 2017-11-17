@@ -1,6 +1,6 @@
 # RESTfulAPIHTML
 
-This is a very simple html page use to call the RESTfulAPi web service.
+This is a very simple html page use to call the RESTfulAPi web service (all calls refers to localhost:8084).
 It is composed by:
 1) a form to add a new user
 2) a url to retrive the list of existing users
